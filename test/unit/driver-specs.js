@@ -8,7 +8,6 @@ import * as teen_process from 'teen_process';
 import { fs } from 'appium-support';
 import xcode from 'appium-xcode';
 
-
 chai.should();
 chai.use(chaiAsPromised);
 
